@@ -1,0 +1,49 @@
+.search-nav {
+  background-color: green;
+  padding: 10px;
+  height: 22px;
+}
+
+.search-container {
+  position: relative;
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 20rem;
+  margin-right: auto;
+  width:13%
+
+}
+
+
+.search-container input[type="text"] {
+  padding: 5px;
+  margin: auto;
+  width: 200px;
+  border-radius: 5px;
+  margin-left: 22px;
+  outline: none; 
+}
+
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 3px;
+  width: 8px;
+  height: 25px !important;
+  border-radius: 5px;
+  background-color: white;
+  transform: translateY(-50%);
+}
+
+
+ul {
+
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  padding: 5px;
+}
+
